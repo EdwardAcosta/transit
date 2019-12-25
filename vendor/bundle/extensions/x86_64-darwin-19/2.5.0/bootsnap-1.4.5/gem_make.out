@@ -1,0 +1,15 @@
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/marta_near_me/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/edwardacosta/.rvm/rubies/ruby-2.5.5/bin/ruby -I /Users/edwardacosta/.rvm/rubies/ruby-2.5.5/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191215-17492-ibmsy5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/marta_near_me/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/marta_near_me/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/marta_near_me/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20191215-17492-vbnpeb/bootsnap
